@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/lavish/static/js/main.7bc2515c.chunk.js",
-    "main.js.map": "/lavish/static/js/main.7bc2515c.chunk.js.map",
-    "runtime-main.js": "/lavish/static/js/runtime-main.34727452.js",
-    "runtime-main.js.map": "/lavish/static/js/runtime-main.34727452.js.map",
-    "static/js/2.d8eae1ea.chunk.js": "/lavish/static/js/2.d8eae1ea.chunk.js",
-    "static/js/2.d8eae1ea.chunk.js.map": "/lavish/static/js/2.d8eae1ea.chunk.js.map",
-    "index.html": "/lavish/index.html",
-    "precache-manifest.9a0a2f01c2dcd6e8d0af04d724b17356.js": "/lavish/precache-manifest.9a0a2f01c2dcd6e8d0af04d724b17356.js",
-    "service-worker.js": "/lavish/service-worker.js",
-    "static/js/2.d8eae1ea.chunk.js.LICENSE.txt": "/lavish/static/js/2.d8eae1ea.chunk.js.LICENSE.txt",
-    "static/media/profile.jpg": "/lavish/static/media/profile.79ba2002.jpg",
-    "static/media/svg-1.svg": "/lavish/static/media/svg-1.55cfb481.svg",
-    "static/media/svg-2.svg": "/lavish/static/media/svg-2.d4846e11.svg",
-    "static/media/svg-3.svg": "/lavish/static/media/svg-3.397c455a.svg"
+    "main.js": "/ultra/static/js/main.7bc2515c.chunk.js",
+    "main.js.map": "/ultra/static/js/main.7bc2515c.chunk.js.map",
+    "runtime-main.js": "/ultra/static/js/runtime-main.93bfea2c.js",
+    "runtime-main.js.map": "/ultra/static/js/runtime-main.93bfea2c.js.map",
+    "static/js/2.6cb0b5b7.chunk.js": "/ultra/static/js/2.6cb0b5b7.chunk.js",
+    "static/js/2.6cb0b5b7.chunk.js.map": "/ultra/static/js/2.6cb0b5b7.chunk.js.map",
+    "index.html": "/ultra/index.html",
+    "precache-manifest.0a1ee0df70ef59e20d3150b0b718cf7c.js": "/ultra/precache-manifest.0a1ee0df70ef59e20d3150b0b718cf7c.js",
+    "service-worker.js": "/ultra/service-worker.js",
+    "static/js/2.6cb0b5b7.chunk.js.LICENSE.txt": "/ultra/static/js/2.6cb0b5b7.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/ultra/static/media/profile.79ba2002.jpg",
+    "static/media/svg-1.svg": "/ultra/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2.svg": "/ultra/static/media/svg-2.d4846e11.svg",
+    "static/media/svg-3.svg": "/ultra/static/media/svg-3.397c455a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.34727452.js",
-    "static/js/2.d8eae1ea.chunk.js",
+    "static/js/runtime-main.93bfea2c.js",
+    "static/js/2.6cb0b5b7.chunk.js",
     "static/js/main.7bc2515c.chunk.js"
   ]
 }
